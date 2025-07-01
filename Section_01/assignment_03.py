@@ -22,6 +22,7 @@ word = "Cool"
 
 # Your code below:
 
+print(chars[:2] + word + chars[2:])
 
 
 
