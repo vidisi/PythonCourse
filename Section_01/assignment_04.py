@@ -20,6 +20,7 @@ word2 = "Truck"
 
 # Your code below:
 
+print(word1[1:] + word2[0] + word2[2:])
 
 
 
