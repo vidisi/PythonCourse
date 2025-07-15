@@ -11,7 +11,7 @@ who owns a bike, a laptop and boat.
 
 # your code below:
 
-
+my_list = [{'Tom':{'salary':20000,'age':22,'owns':['jacket','car','TV']}},{'Mike':{'salary':24000,'age':27,'owns1':['bike','laptop','boat']}}]
 
 
 
