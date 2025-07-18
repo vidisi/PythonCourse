@@ -13,6 +13,23 @@ original_list = ['cup', 'cereal', 'milk', (8, 4, 3)]
 
 # your code below:
 
+nm1 = original_list[3][0]
+
+nm2 = original_list[3][1]
+
+nm3 = original_list[3][2]
+
+my_list = [nm1,nm2,nm3]
+
+my_list.sort()
+
+my_tuple = (my_list[0],my_list[1],my_list[2])
+
+original_list.pop()
+
+original_list.append(my_tuple)
+
+print(original_list)
 
 
 
